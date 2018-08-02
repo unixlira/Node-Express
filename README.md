@@ -1,4 +1,4 @@
-# Noticias-NODE.JS
+# Node.js - Express
 Portal de Notícias Dinâmico em Node.JS
 
 /* módulo do framework express */
